@@ -1,10 +1,10 @@
 # Nicolas Tavares
-**`Desenvolvedor Back-End`**
+**`Developer Back-End`**
 
-Olá! Me chamo Nicolas Tavares, tenho 20 anos e sou natural de Recife. Concluí o ensino médio na ETE Porto Digital, onde cursei o técnico em Análise e Desenvolvimento de Sistemas.  
-Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no Senac.
+Hello! My name is Nicolas Tavares, I’m 20 years old and I’m from Recife. I finished high school at ETE Porto Digital, where I completed a technical course in Systems Analysis and Development.
+I’m currently studying Systems Analysis and Development at Senac.
 
-Sou apaixonado por tecnologia e estou sempre em busca de aprender mais, explorar novas ferramentas e aprimorar minhas habilidades como desenvolvedor.
+I’m passionate about technology and I’m always looking to learn more, explore new tools, and improve my skills as a developer.
 
 ---
 
