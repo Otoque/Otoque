@@ -23,7 +23,7 @@ I’m passionate about technology and I’m always looking to learn more, explor
   <img
     align="right"
     alt="GitHub Stats"
-    height="100"
+    height="200"
     style="padding-right: 10px"
     src="https://github-readme-stats.vercel.app/api?username=Otoque&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
   />
@@ -32,7 +32,7 @@ I’m passionate about technology and I’m always looking to learn more, explor
     align="left"
     alt="Top Langs"
     height="200"
-    style="padding-right: 10px"
+    style="padding-left: 10px"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Otoque&theme=tokyonight&layout=compact&langs_count=10"
   />
 </p>
