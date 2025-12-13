@@ -21,7 +21,7 @@ I’m passionate about technology and I’m always looking to learn more, explor
 
 <p>
   <img
-    align="left"
+    align="right"
     alt="GitHub Stats"
     height="200"
     style="padding-right: 10px"
