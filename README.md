@@ -24,7 +24,7 @@ I’m passionate about technology and I’m always looking to learn more, explor
     align="right"
     alt="GitHub Stats"
     height="200"
-    style="padding-right: 0px"
+    style="padding-right: 40px"
     src="https://github-readme-stats.vercel.app/api?username=Otoque&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
   />
 
