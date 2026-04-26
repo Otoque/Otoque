@@ -1,5 +1,5 @@
 # Nicolas Tavares
-**`Developer Back-End`**
+**`Developer Web`**
 
 Hello! My name is Nicolas Tavares, I’m 20 years old and I’m from Recife. I finished high school at ETE Porto Digital, where I completed a technical course in Systems Analysis and Development.
 I’m currently studying Systems Analysis and Development at Senac.
